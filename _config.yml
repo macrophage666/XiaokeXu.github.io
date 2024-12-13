@@ -12,7 +12,7 @@ title                    : "XiaokeXu / github.io"
 title_separator          : "-"
 name                     : &name "Xiaoke Xu"
 description              : &description "PhD student at University of Nebraska Medical Center"
-url                      : https://xiaokexu.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
+url                      : "https://xiaokexu.github.io" # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "macrophage666/XiaokeXu.github.io"
 
