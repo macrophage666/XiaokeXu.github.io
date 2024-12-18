@@ -57,7 +57,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : "Xiaoke Xu"
+  linkedin         : "https://www.linkedin.com/in/xiaoke-xu/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3B4t5je3GoTUaGF%2BP16tB25A%3D%3D"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
@@ -76,9 +76,41 @@ author:
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
   manuscripts:
-    title: 'Journal Articles'    
+    title: "Xu X., Niu M., Lamberty G.B., Emanuel K., Trease J.A., Tabassum M., Lifson, D.j., Fox S.H. (2024). Microglia
+            and macrophages alterations in the CNS during acute SIV infection: a single-cell analysis in rhesus macaques,
+            doi: https://doi.org/10.1371/journal.ppat.1012168. PLOS Pathogens."
+    title: "Xu X., Niu M., Lamberty G.B., Emanuel K., Apostol J.M., Fox S.H. Transformation of brain myeloid cell 
+            populations by SIV in rhesus macaques revealed by multiomics, doi: https://doi.org/10.21203/rs.3.rs-4916594/v1.
+            Communications biology."
+    title: "Xu X., Jia Z., Chen N., Lele S.M., Reinhardt R.A., Killeen A.C., Wang D. (2023). The Development of
+          Thermoresponsive Polymeric Simvastatin Prodrug for the Treatment of Experimental Periodontitis in Rats, doi:
+          https://doi.org/10.1021/acs.molpharmaceut.3c00508. Molecular Pharmaceutics."
+    title: "Zhao Z., Xu, X., Jiang H., Foster K.W., Jia Z., Wei X., ... & Wang D. (2021). Preclinical dose-escalation study
+          of ZSJ-0228, a polymeric dexamethasone prodrug, in the treatment of murine lupus nephritis, doi:
+          https://doi.org/10.1021/acs.molpharmaceut.1c00567. Molecular pharmaceutics"
+    title: "Zhao Z., Jiang H., Xu X., Jia Z., Ren R., Foster K.W., ... & Wang D. (2022). Polymeric dexamethasone prodrugs 
+          attenuate lupus nephritis in MRL/lpr mice with reduced glucocorticoid toxicity, doi:
+          https://doi.org/10.1016/j.nano.2022.102579. Nanomedicine: Nanotechnology, Biology and Medicine."
+    title: "Jia Z., Wei X., Chen, N., Xu X., Zhao G., Fu X., Wang H., Goldring M., Goldring S., Wang D. (2023). 
+          Thermoresponsive Polymeric Hydromorphone Prodrug Provides Sustained Local Analgesia without Apparent
+          Adverse Effects, doi: https://doi.org/10.1021/acs.molpharmaceut.3c01133. Molecular Pharmaceutics"
+    title: "Wei X., Zhao G., Chen N., Xu X., … & Wang D. (2024). Identification of formulation parameters that affect the
+          analgesic efficacy of ProGel-Dex: A thermoresponsive polymeric dexamethasone prodrug for chronic arthritis
+          pain relief, doi: https://doi.org/10.1016/j.nano.2024.102782. Nanomedicine: Nanotechnology, Biology and Medicine."
+    title: "Chen N., Wei X., Zhao G., Jia Z., Fu X., Jiang H., Xu X., … & Wang D. (2024). Single-dose thermoresponsive 
+          dexamethasone prodrug completely mitigates joint pain for 15 weeks in a murine model of osteoarthritis, doi:
+          https://doi.org/10.1016/j.nano.2024.102735. Nanomedicine: Nanotechnology, Biology and Medicine."
+    title: "Chen N., Ren R., Wei X., Mukundan R., Li G., Xu X., ... & Wang D. (2021). Thermoresponsive hydrogel-based
+          local delivery of simvastatin for the treatment of periodontitis, doi:
+          https://doi.org/10.1021/acs.molpharmaceut.0c01196. Molecular pharmaceutics."
+
   conferences:
-    title: 'Conference Papers'
+    title: 'Xiaoke, Xu, Niu Meng, Lamberty Benjamen, Fox Howard. “Immunotyping of Microglia and Macrophages in 
+          the CNS during Acute SIV Infection: A Single-Cell Analysis of Rhesus Macaque Brains.” (Presentation) 2024
+          Society on NeuroImmune Pharmacology (SNIP) Annual Meeting, Charleston, SC.'
+    title: 'Xiaoke, Xu, Zhenshan Jia, Ningrong chen, Subodh M. Lele, Richard A. Reinhardt, Amy C Killeen, Dong Wang.
+          “Thermoresponsive Polymeric Simvastatin Prodrug Hydrogel for the Treatment of Experimental Periodontitis
+          in rats.” (Presentation, Poster) 2023 Society of Biomaterials (SFB) Annual Meeting, San Diego, CA.'
 
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
