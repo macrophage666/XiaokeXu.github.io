@@ -76,15 +76,9 @@ author:
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
   manuscripts:
-    title: "Xu X., Niu M., Lamberty G.B., Emanuel K., Trease J.A., Tabassum M., Lifson, D.j., Fox S.H. (2024). Microglia
-            and macrophages alterations in the CNS during acute SIV infection: a single-cell analysis in rhesus macaques,
-            doi: https://doi.org/10.1371/journal.ppat.1012168. PLOS Pathogens."
-    title: "Xu X., Niu M., Lamberty G.B., Emanuel K., Apostol J.M., Fox S.H. Transformation of brain myeloid cell 
-            populations by SIV in rhesus macaques revealed by multiomics, doi: https://doi.org/10.21203/rs.3.rs-4916594/v1.
-            Communications biology."
-    title: "Xu X., Jia Z., Chen N., Lele S.M., Reinhardt R.A., Killeen A.C., Wang D. (2023). The Development of
-          Thermoresponsive Polymeric Simvastatin Prodrug for the Treatment of Experimental Periodontitis in Rats, doi:
-          https://doi.org/10.1021/acs.molpharmaceut.3c00508. Molecular Pharmaceutics."
+    title: "Microglia and macrophages alterations in the CNS during acute SIV infection: a single-cell analysis in rhesus macaques"
+    title: "Transformation of brain myeloid cell populations by SIV in rhesus macaques revealed by multiomics"
+    title: "The Development of Thermoresponsive Polymeric Simvastatin Prodrug for the Treatment of Experimental Periodontitis in Rats"
     title: "Zhao Z., Xu, X., Jiang H., Foster K.W., Jia Z., Wei X., ... & Wang D. (2021). Preclinical dose-escalation study
           of ZSJ-0228, a polymeric dexamethasone prodrug, in the treatment of murine lupus nephritis, doi:
           https://doi.org/10.1021/acs.molpharmaceut.1c00567. Molecular pharmaceutics"

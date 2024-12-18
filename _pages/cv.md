@@ -11,35 +11,53 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Pharmaceutical Science, University of Nebraska Medical Center, 2021-Aug 2025 (expected)
+* B.S. in Pharmaceutical Science, China Pharmaceutical University, 2016-2020
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* 07/2023-present: Graduate Research Assistant
+  * Project 1: Microglia and macrophage alterations in the CNS during acute SIV infection: a single-cell analysis in rhesus macaques.
+    * Bioinformatics analyses: 10x Genomics pipeline, Seurat, clusterProfiler, monocle3, IPA
+    * Data mining and manuscript writing
+  * Project 2: Transformation of brain myeloid cell populations by SIV in rhesus macaques revealed by multiomics.
+    * Bioinformatics analyses: 10x Genomics pipeline, ArchR, Seurat, cellChat, monocle3, IPA, IGV
+    * Data mining and manuscript writing
+  * Project 3: Single-cell RNA sequencing deciphers the dynamic of lymphocytes and lymphoid-myeloid interactions in the brain during acute SIV infection.
+    * Bioinformatics analyses: 10x Genomics pipeline, Seurat, clusterProfiler, monocle3, IPA
+    * Wet lab: cell co-cultivation/cell apoptotic assay/FACS/IF
+    * Data mining and manuscript writing
+  * Project 4: Uncovering HIV/opioid effects in the brain at the single cell level: transcription and chromatin accessibility in the SIV/cART/morphine/rhesus monkey model.
+    * Bioinformatics analyses: 10x Genomics pipeline, ArchR, Snapatac2, Seurat, clusterProfiler, monocle3, IPA
+    * Data mining and manuscript writing
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 08/2020-06/2021: Research Assistant
+  * Innostellar Bio Co., Ltd, Shanghai
+  * Participate in developing two gene therapies, which will be used to treat Leber congenital amaurosis 2 (LCA2) and Macular degeneration.
+  * Using molecular cloning to construct plasmid | Extracting plasmid from Ecoli | Using qPCR for testing virus titer | Adeno-Associated Virus (AAV) purification (lab-scale) | preclinical studies (perform ERG and OCT on mice, Histology staining).
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Dry Lab skills
+  * R (R markdown, R shiny)
+  * Python (Jupyter Notebook)
+  * Linux bash
+  * Aanaconda
+  * GitHub
+  * Upload and download data from GEO, SRA, USC, and ENSEMBL database repository
+  * Appl tools/pipelines for analyzing genomics/transcriptomics data (10x Genomics pipelines, Nextflow pipelines, samtools, IGV, DEseq2, Seurat, Scanpy, ArchR, snapATAC2, cellChat, monocle3, clusterProfiler, IPA)
+  * Machine learning tool (Tensorflow)
+* Wet Lab skills
+  * Cell culture
+  * Animal Work (Dissection, i.v., i.p., s.c. injection, oral gavage, in vivo imaging (IVIS), CAT Walk XT, Electroretinography (ERG), Optical Coherence Tomography (OCT))
+  * FACS
+  * qPCR
+  * Immunostaining (IHC, IF, HE)
+  * Micro-CT
+  * Fomulation
+  * HPLC
+  * FPLC/GPC-MALS
+  * DLS
 
 Publications
 ======
@@ -47,18 +65,4 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+
