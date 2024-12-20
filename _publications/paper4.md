@@ -1,7 +1,7 @@
 ---
 title: "Identification of formulation parameters that affect the analgesic efficacy of ProGel-Dex: A thermoresponsive polymeric dexamethasone prodrug for chronic arthritis pain relief"
 collection: publications
-category: Peer reviewed
+category: manuscripts
 permalink: /publication/paper4
 date: 2024-8-22
 venue: 'Nanomedicine'

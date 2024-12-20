@@ -1,7 +1,7 @@
 ---
 title: "The Development of Thermoresponsive Polymeric Simvastatin Prodrug for the Treatment of Experimental Periodontitis in Rats"
 collection: publications
-category: Peer reviewed
+category: manuscripts
 permalink: /publication/paper7
 date: 2023-11-6
 venue: 'Molecular Pharmaceutics'

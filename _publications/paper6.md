@@ -1,7 +1,7 @@
 ---
 title: "Preclinical dose-escalation study of ZSJ-0228, a polymeric dexamethasone prodrug, in the treatment of murine lupus nephritis"
 collection: publications
-category: Peer reviewed
+category: manuscripts
 permalink: /publication/paper6
 date: 2021-11-1
 venue: 'Molecular Pharmaceutics'

@@ -1,7 +1,7 @@
 ---
 title: "Thermoresponsive Polymeric Hydromorphone Prodrug Provides Sustained Local Analgesia without Apparent Adverse Effects"
 collection: publications
-category: Peer reviewed
+category: manuscripts
 permalink: /publication/paper2
 date: 2024-4-1
 venue: 'Molecular Pharmaceutics'

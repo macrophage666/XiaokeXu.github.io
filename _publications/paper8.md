@@ -1,7 +1,7 @@
 ---
 title: "Transformation of brain myeloid cell populations by SIV in rhesus macaques revealed by multiomics"
 collection: publications
-category: Peer reviewed
+category: manuscripts
 permalink: /publication/paper8
 date: 2024-09-18
 venue: 'Communications biology'

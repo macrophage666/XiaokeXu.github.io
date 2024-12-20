@@ -1,7 +1,7 @@
 ---
 title: "Single-dose thermoresponsive dexamethasone prodrug completely mitigates joint pain for 15 weeks in a murine model of osteoarthritis"
 collection: publications
-category: Peer reviewed
+category: manuscripts
 permalink: /publication/paper3
 date: 2024-1-29
 venue: 'Nanomedicine'

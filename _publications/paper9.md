@@ -1,7 +1,7 @@
 ---
 title: "Microglia and macrophages alterations in the CNS during acute SIV infection: a single-cell analysis in rhesus macaques"
 collection: publications
-category: Peer reviewed
+category: manuscripts
 permalink: /publication/paper9
 date: 2024-09-16
 venue: 'PLOS Pathogens'

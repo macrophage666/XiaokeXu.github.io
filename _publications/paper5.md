@@ -1,7 +1,7 @@
 ---
 title: "Polymeric dexamethasone prodrugs attenuate lupus nephritis in MRL/lpr mice with reduced glucocorticoid toxicity"
 collection: publications
-category: Peer reviewed
+category: manuscripts
 permalink: /publication/paper5
 date: 2022-6-26
 venue: 'Nanomedicine'

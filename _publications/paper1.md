@@ -1,7 +1,7 @@
 ---
 title: "Thermoresponsive hydrogel-based local delivery of simvastatin for the treatment of periodontitis"
 collection: publications
-category: Peer reviewed
+category: manuscripts
 permalink: /publication/paper1
 date: 2021-3-23
 venue: 'Molecular Pharmaceutics'
