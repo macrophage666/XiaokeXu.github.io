@@ -6,19 +6,16 @@ redirect_from:
   - /about/
   - /about.html
 ---
-======
+
 Hi, I'm Xiaoke, a PhD candidate in Department of pharmaceutical science, University of Nebraska Medical Center. I have both wet lab and dry lab experience and skills. My thesis project focused on using scRNA-seq and scATAC-seq to understand HIV-associated neurological disorders (HANDs). I am also involved in several other collaborated studies using bulk RNA-seq and proteomics data to understand other neuropathologies. I am skilled in R and Python programming languages, Linux bash, and varied bioinformatic/analytical tools.
 
 Education
 ======
-
 China Pharmaceutical University (09/2016-06/2020)
-------
 * Bachelor of Science in Pharmaceutical Science (GPA 3.6/4.0)
 * Award: Chinese government scholarship; University scholarship(3 years)
 
 University of Nebraska Medical Center (08/2021-08/2025 (expected))
-------
 * PhD in Pharmaceutical Science (GPA 3.9/4.0)
 * Selected courses: Biostatistical Computing (A+), Intro to Biostatistics, Machine Learning (A+), Biostatistics (A), Fundamentals of Biomolecules(A-), Intro (A+) and Advanced (A) Immunology
 * Leadership position: resident of China Students and Scholars Association

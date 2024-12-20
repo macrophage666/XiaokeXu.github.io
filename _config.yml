@@ -86,7 +86,6 @@ publication_category:
     title: "Single-dose thermoresponsive dexamethasone prodrug completely mitigates joint pain for 15 weeks in a murine model of osteoarthritis"
     title: "Thermoresponsive hydrogel-based local delivery of simvastatin for the treatment of periodontitis"
 
-
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
