@@ -79,32 +79,13 @@ publication_category:
     title: "Microglia and macrophages alterations in the CNS during acute SIV infection: a single-cell analysis in rhesus macaques"
     title: "Transformation of brain myeloid cell populations by SIV in rhesus macaques revealed by multiomics"
     title: "The Development of Thermoresponsive Polymeric Simvastatin Prodrug for the Treatment of Experimental Periodontitis in Rats"
-    title: "Zhao Z., Xu, X., Jiang H., Foster K.W., Jia Z., Wei X., ... & Wang D. (2021). Preclinical dose-escalation study
-          of ZSJ-0228, a polymeric dexamethasone prodrug, in the treatment of murine lupus nephritis, doi:
-          https://doi.org/10.1021/acs.molpharmaceut.1c00567. Molecular pharmaceutics"
-    title: "Zhao Z., Jiang H., Xu X., Jia Z., Ren R., Foster K.W., ... & Wang D. (2022). Polymeric dexamethasone prodrugs 
-          attenuate lupus nephritis in MRL/lpr mice with reduced glucocorticoid toxicity, doi:
-          https://doi.org/10.1016/j.nano.2022.102579. Nanomedicine: Nanotechnology, Biology and Medicine."
-    title: "Jia Z., Wei X., Chen, N., Xu X., Zhao G., Fu X., Wang H., Goldring M., Goldring S., Wang D. (2023). 
-          Thermoresponsive Polymeric Hydromorphone Prodrug Provides Sustained Local Analgesia without Apparent
-          Adverse Effects, doi: https://doi.org/10.1021/acs.molpharmaceut.3c01133. Molecular Pharmaceutics"
-    title: "Wei X., Zhao G., Chen N., Xu X., … & Wang D. (2024). Identification of formulation parameters that affect the
-          analgesic efficacy of ProGel-Dex: A thermoresponsive polymeric dexamethasone prodrug for chronic arthritis
-          pain relief, doi: https://doi.org/10.1016/j.nano.2024.102782. Nanomedicine: Nanotechnology, Biology and Medicine."
-    title: "Chen N., Wei X., Zhao G., Jia Z., Fu X., Jiang H., Xu X., … & Wang D. (2024). Single-dose thermoresponsive 
-          dexamethasone prodrug completely mitigates joint pain for 15 weeks in a murine model of osteoarthritis, doi:
-          https://doi.org/10.1016/j.nano.2024.102735. Nanomedicine: Nanotechnology, Biology and Medicine."
-    title: "Chen N., Ren R., Wei X., Mukundan R., Li G., Xu X., ... & Wang D. (2021). Thermoresponsive hydrogel-based
-          local delivery of simvastatin for the treatment of periodontitis, doi:
-          https://doi.org/10.1021/acs.molpharmaceut.0c01196. Molecular pharmaceutics."
+    title: "Preclinical dose-escalation study of ZSJ-0228, a polymeric dexamethasone prodrug, in the treatment of murine lupus nephritis"
+    title: "Polymeric dexamethasone prodrugs attenuate lupus nephritis in MRL/lpr mice with reduced glucocorticoid toxicity"
+    title: "Thermoresponsive Polymeric Hydromorphone Prodrug Provides Sustained Local Analgesia without Apparent Adverse Effects"
+    title: "Identification of formulation parameters that affect the analgesic efficacy of ProGel-Dex: A thermoresponsive polymeric dexamethasone prodrug for chronic arthritis pain relief."
+    title: "Single-dose thermoresponsive dexamethasone prodrug completely mitigates joint pain for 15 weeks in a murine model of osteoarthritis"
+    title: "Thermoresponsive hydrogel-based local delivery of simvastatin for the treatment of periodontitis"
 
-  conferences:
-    title: 'Xiaoke, Xu, Niu Meng, Lamberty Benjamen, Fox Howard. “Immunotyping of Microglia and Macrophages in 
-          the CNS during Acute SIV Infection: A Single-Cell Analysis of Rhesus Macaque Brains.” (Presentation) 2024
-          Society on NeuroImmune Pharmacology (SNIP) Annual Meeting, Charleston, SC.'
-    title: 'Xiaoke, Xu, Zhenshan Jia, Ningrong chen, Subodh M. Lele, Richard A. Reinhardt, Amy C Killeen, Dong Wang.
-          “Thermoresponsive Polymeric Simvastatin Prodrug Hydrogel for the Treatment of Experimental Periodontitis
-          in rats.” (Presentation, Poster) 2023 Society of Biomaterials (SFB) Annual Meeting, San Diego, CA.'
 
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"

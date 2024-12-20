@@ -34,7 +34,7 @@ Work experience
 * 08/2020-06/2021: Research Assistant
   * Innostellar Bio Co., Ltd, Shanghai
   * Participate in developing two gene therapies, which will be used to treat Leber congenital amaurosis 2 (LCA2) and Macular degeneration.
-  * Using molecular cloning to construct plasmid | Extracting plasmid from Ecoli | Using qPCR for testing virus titer | Adeno-Associated Virus (AAV) purification (lab-scale) | preclinical studies (perform ERG and OCT on mice, Histology staining).
+  * Using molecular cloning to construct plasmid; Extracting plasmid from Ecoli; Using qPCR for testing virus titer; Adeno-Associated Virus (AAV) purification (lab-scale); preclinical studies (perform ERG and OCT on mice, Histology staining).
 
 Skills
 ======
