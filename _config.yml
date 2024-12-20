@@ -75,16 +75,8 @@ author:
 
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
-  Peer reviewed:
-    title: "Microglia and macrophages alterations in the CNS during acute SIV infection: a single-cell analysis in rhesus macaques"
-    title: "Transformation of brain myeloid cell populations by SIV in rhesus macaques revealed by multiomics"
-    title: "The Development of Thermoresponsive Polymeric Simvastatin Prodrug for the Treatment of Experimental Periodontitis in Rats"
-    title: "Preclinical dose-escalation study of ZSJ-0228, a polymeric dexamethasone prodrug, in the treatment of murine lupus nephritis"
-    title: "Polymeric dexamethasone prodrugs attenuate lupus nephritis in MRL/lpr mice with reduced glucocorticoid toxicity"
-    title: "Thermoresponsive Polymeric Hydromorphone Prodrug Provides Sustained Local Analgesia without Apparent Adverse Effects"
-    title: "Identification of formulation parameters that affect the analgesic efficacy of ProGel-Dex: A thermoresponsive polymeric dexamethasone prodrug for chronic arthritis pain relief."
-    title: "Single-dose thermoresponsive dexamethasone prodrug completely mitigates joint pain for 15 weeks in a murine model of osteoarthritis"
-    title: "Thermoresponsive hydrogel-based local delivery of simvastatin for the treatment of periodontitis"
+  manuscripts:
+    title: 'Peer reviewed'
 
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
