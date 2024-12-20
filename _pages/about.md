@@ -18,7 +18,7 @@ China Pharmaceutical University (09/2016-06/2020)
 University of Nebraska Medical Center (08/2021-08/2025 (expected))
 * PhD in Pharmaceutical Science (GPA 3.9/4.0)
 * Selected courses: Biostatistical Computing (A+), Intro to Biostatistics, Machine Learning (A+), Biostatistics (A), Fundamentals of Biomolecules(A-), Intro (A+) and Advanced (A) Immunology
-* Leadership position: resident of China Students and Scholars Association
+* Leadership position: president of China Students and Scholars Association
 
 Research
 ======
