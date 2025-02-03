@@ -6,7 +6,6 @@ permalink: /publication/paper8
 date: 2024-09-18
 venue: 'Communications biology'
 paperurl: 'http://academicpages.github.io/files/paper8.pdf'
-citation: 'Xu, X. (2024). &quot;Transformation of brain myeloid cell populations by SIV in rhesus macaques revealed by multiomics.&quot; <i>Communications biology</i>.'
----
+citation: 'Xu, X. (2025). &quot;Transformation of brain myeloid cell populations by SIV in rhesus macaques revealed by multiomics.&quot; <i> Commun Biol</i>. 8, 100'
 
 Authors: Xu X., Niu M., Lamberty G.B., Emanuel K., Apostol J.M., Fox S.H.
