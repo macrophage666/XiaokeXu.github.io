@@ -40,13 +40,19 @@ Skills
 ======
 * Dry Lab skills
   * R (R markdown, R shiny)
-  * Python (Jupyter Notebook)
+  * Python
   * Linux bash
   * Aanaconda
   * GitHub
-  * Upload and download data from GEO, SRA, USC, and ENSEMBL database repository
-  * Appl tools/pipelines for analyzing genomics/transcriptomics data (10x Genomics pipelines, Nextflow pipelines, samtools, IGV, DEseq2, Seurat, Scanpy, ArchR, snapATAC2, cellChat, monocle3, clusterProfiler, IPA)
-  * Machine learning tool (Tensorflow)
+  * GEO, SRA, USC, and ENSEMBL database repository
+  * NGS data analysis
+  * 10x Genomics pipelines
+  * Nextflow pipelines
+  * scRNA-seq analysis 
+  * scATAC-seq analysis (10x multiomics)
+  * bulk RNA-seq analysis
+  * Familiar with the application of bioinformatics tools, such as: Seurat, Scanpy, ArchR, snapATAC2,  DEseq2,cellChat, monocle3, clusterProfiler, Muscat, complexHeatmap, IPA, samtools, IGV
+
 * Wet Lab skills
   * Cell culture
   * Animal Work (Dissection, i.v., i.p., s.c. injection, oral gavage, in vivo imaging (IVIS), CAT Walk XT, Electroretinography (ERG), Optical Coherence Tomography (OCT))
@@ -54,7 +60,7 @@ Skills
   * qPCR
   * Immunostaining (IHC, IF, HE)
   * Micro-CT
-  * Fomulation
+  * Formulation
   * HPLC
   * FPLC/GPC-MALS
   * DLS

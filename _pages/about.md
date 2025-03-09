@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi, I'm Xiaoke, a PhD candidate in Department of pharmaceutical science, University of Nebraska Medical Center. I have both wet lab and dry lab experience and skills. My thesis project focused on using scRNA-seq and scATAC-seq to understand HIV-associated neurological disorders (HANDs). I am also involved in several other collaborated studies using bulk RNA-seq and proteomics data to understand other neuropathologies. I am skilled in R and Python programming languages, Linux bash, and varied bioinformatic/analytical tools.
+<h3 style="text-align: center;" markdown="1">Hi, I'm Xiaoke, a PhD candidate in Department of pharmaceutical science, University of Nebraska Medical Center. I have both wet lab and dry lab experience and skills. My thesis project focused on using scRNA-seq and scATAC-seq to understand HIV-associated neurological disorders (HANDs). I am also involved in several other collaborated studies using bulk RNA-seq and proteomics data to understand other neuropathologies. I am skilled in R and Python programming languages, Linux bash, and varied bioinformatic/analytical tools.</h3>
 
 Education
 ======
