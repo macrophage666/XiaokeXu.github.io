@@ -73,7 +73,7 @@ Skills
   * qPCR
   * Immunostaining (IHC, IF, HE)
   * Micro-CT
-  * Fomulation
+  * Formulation
   * HPLC
   * FPLC/GPC-MALS
   * DLS

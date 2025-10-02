@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi, I'm Xiaoke, a Postdoctoral Associate at MIT CSAIL with expertise in bioinformatics, machine learning, and multiomic data analysis applied to complex diseases. Strong background in neuroimmunology and pharmaceutical science with combined wet lab and computational experience. Skilled in integrating scRNA-seq, scATAC-seq, bulk RNA-seq, and proteomics to uncover disease mechanisms and identify therapeutic targets. Proficient in Python, R, Linux, and advanced analytical tools, with proven ability to lead data-driven projects, collaborate across disciplines, and translate research insights into actionable solutions.
+<h3 style="text-align: right;" markdown="1">Hi, I'm Xiaoke, a Postdoctoral Associate at MIT CSAIL with expertise in bioinformatics, machine learning, and multiomic data analysis applied to complex diseases. Strong background in neuroimmunology and pharmaceutical science with combined wet lab and computational experience. Skilled in integrating scRNA-seq, scATAC-seq, bulk RNA-seq, and proteomics to uncover disease mechanisms and identify therapeutic targets. Proficient in Python, R, Linux, and advanced analytical tools, with proven ability to lead data-driven projects, collaborate across disciplines, and translate research insights into actionable solutions.</h3>
 
 Education
 ======
