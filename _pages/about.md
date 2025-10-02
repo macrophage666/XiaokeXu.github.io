@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-<h3 style="text-align: left;" markdown="1">Hi, I'm Xiaoke, a Postdoctoral Associate at MIT CSAIL with expertise in bioinformatics, machine learning, and multiomic data analysis applied to complex diseases. Strong background in neuroimmunology and pharmaceutical science with combined wet lab and computational experience. Skilled in integrating scRNA-seq, scATAC-seq, bulk RNA-seq, and proteomics to uncover disease mechanisms and identify therapeutic targets. Proficient in Python, R, Linux, and advanced analytical tools, with proven ability to lead data-driven projects, collaborate across disciplines, and translate research insights into actionable solutions.</h3>
+<h3 style="text-align: left;"> Hi, I'm Xiaoke, a Postdoctoral Associate at MIT CSAIL with expertise in bioinformatics, machine learning, and multiomic data analysis applied to complex diseases. Strong background in neuroimmunology and pharmaceutical science with combined wet lab and computational experience. Skilled in integrating scRNA-seq, scATAC-seq, bulk RNA-seq, and proteomics to uncover disease mechanisms and identify therapeutic targets. Proficient in Python, R, Linux, and advanced analytical tools, with proven ability to lead data-driven projects, collaborate across disciplines, and translate research insights into actionable solutions.</h3>
 
 Education
 ======
@@ -21,6 +21,7 @@ University of Nebraska Medical Center (08/2021-08/2025)
 
 PhD projects
 ======
+
 Unveiling the transcriptomic landscape of brain immunity in acute SIV infection via single-cell RNA sequencing (scRNA-seq). 
 ------
 In this project, I utilized single-cell RNA sequencing (scRNA-seq) to investigate immune cell alterations in the central nervous system (CNS) during acute SIV infection. My work involved preprocessing the sequencing data using [cellranger pipelines](https://www.10xgenomics.com/support/software/cell-ranger/latest), performing data mining, and interpreting biological results. Leveraging the power of scRNA-seq for studying disease mechanisms, I obtained several important findings. In the study of [Microglia and macrophages alterations in the CNS during acute SIV infection](https://doi.org/10.1371/journal.ppat.1012168), I identified signature genes associated with distinct cellular phenotypes and mapped them to relevant biological and pathological pathways. This analysis also revealed two myeloid cell clusters with strong associations to neurodegenerative disorders. In the study of [Lymphocyte alternations in the CNS during acute SIV infection](https://doi.org/10.21203/rs.3.rs-6537361/v1), I conducted a comprehensive transcriptomic characterization of brain lymphocytes and blood CD4+ T cells, identifying a candidate lymphocyte phenotype potentially contributing to the initiation of CNS infection.Together, these findings highlight the immunological and pathological roles of diverse myeloid and lymphoid phenotypes in the brain during acute SIV infection. They provide important insights into early disease mechanisms and may inform the development of therapeutic strategies targeting this critical stage to reduce or eliminate viral reservoirs.
