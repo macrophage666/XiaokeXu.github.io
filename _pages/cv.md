@@ -16,7 +16,7 @@ Education
 
 Professional experience
 ======
-* 08/2025-present: Postdoctoral Associate (Supervisor: Manolis Kellis)
+08/2025-present: Postdoctoral Associate (Supervisor: Manolis Kellis)
 * Massachusetts Institute of Technology 
 * Computer Science and Artificial Intelligence Laboratory (CSAIL)
   * Apply advanced machine learning methods to integrate and analyze transcriptomic and multiomic datasets in the context of HIV with substance use disorder and Alzheimer’s disease with pathogen infection.
@@ -24,7 +24,7 @@ Professional experience
   * Discover candidate biomarkers and regulatory networks linking pathogen infection, substance use, and neurodegenerative processes.
   * Collaborate in cross-disciplinary teams, contributing computational expertise to biological interpretation and manuscript preparation.
 
-* 07/2023-08/2025: Graduate Research Assistant (Supervisor: Fox Howard)
+07/2023-08/2025: Graduate Research Assistant (Supervisor: Fox Howard)
 * University of Nebraska Medical Center
 * Neurological Sceince
   * Identified and characterized microglia, macrophage, and lymphocyte phenotypes during acute and chronic SIV infection, revealing subsets associated with HIV/SIV-related neurological disorders.
@@ -39,7 +39,7 @@ Professional experience
   * Conducted <i>in vitro</i> release and structural analyses using MS, NMR, HPLC, DLS, SAXS, and GPC-MALS.
   * Established a rat periodontitis model and evaluated toxicity and efficacy via Micro-CT, blood analysis, and immunostaining.
 
-* 08/2020-06/2021: Research Assistant
+08/2020-06/2021: Research Assistant
   * Innostellar Bio Co., Ltd., Shanghai
     * Contributed to R&D on gene therapy (AAV-based) development, verification, and preclinical studies.
     * Assisted in developing two gene therapies targeting Leber congenital amaurosis 2 (LCA2) and macular degeneration.
