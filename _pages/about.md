@@ -1,12 +1,13 @@
 ---
 permalink: /
-title: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-<h3 style="text-align: left;"> Hi, I'm Xiaoke, a Postdoctoral Associate at MIT CSAIL with expertise in bioinformatics, machine learning, and multiomic data analysis applied to complex diseases. Strong background in neuroimmunology and pharmaceutical science with combined wet lab and computational experience. Skilled in integrating scRNA-seq, scATAC-seq, bulk RNA-seq, and proteomics to uncover disease mechanisms and identify therapeutic targets. Proficient in Python, R, Linux, and advanced analytical tools, with proven ability to lead data-driven projects, collaborate across disciplines, and translate research insights into actionable solutions.</h3>
+About me
+======
+Hi, I'm Xiaoke, a Postdoctoral Associate at MIT CSAIL with expertise in bioinformatics, machine learning, and multiomic data analysis applied to complex diseases. Strong background in neuroimmunology and pharmaceutical science with combined wet lab and computational experience. Skilled in integrating scRNA-seq, scATAC-seq, bulk RNA-seq, and proteomics to uncover disease mechanisms and identify therapeutic targets. Proficient in Python, R, Linux, and advanced analytical tools, with proven ability to lead data-driven projects, collaborate across disciplines, and translate research insights into actionable solutions.
 
 Education
 ======
@@ -18,6 +19,7 @@ University of Nebraska Medical Center (08/2021-08/2025)
 * PhD in Pharmaceutical Science (GPA 3.9/4.0)
 * Selected courses: Biostatistical Computing (A+), Intro to Biostatistics, Machine Learning (A+), Biostatistics (A), Fundamentals of Biomolecules(A-), Intro (A+) and Advanced (A) Immunology
 * Leadership position: president of China Students and Scholars Association
+
 
 PhD projects
 ======

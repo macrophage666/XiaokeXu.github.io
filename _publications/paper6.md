@@ -1,12 +1,12 @@
 ---
-title: "Preclinical dose-escalation study of ZSJ-0228, a polymeric dexamethasone prodrug, in the treatment of murine lupus nephritis"
+title: "The absence of Parkin in hTau mice leads to synaptic mitochondrial dysfunction, alterations to the synaptic proteome, and increased phosphorylated tau in the Hippocampus"
 collection: publications
 category: manuscripts
 permalink: /publication/paper6
-date: 2021-11-1
-venue: 'Molecular Pharmaceutics'
+date: 2025-10-15
+venue: 'Neurobiology of Disease'
 paperurl: 'https://github.com/macrophage666/XiaokeXu.github.io/tree/master/files/paper6.pdf'
-citation: 'Zhao Z. (2021). &quot;Preclinical dose-escalation study of ZSJ-0228, a polymeric dexamethasone prodrug, in the treatment of murine lupus nephritis.&quot; <i>Mol Pharm</i>. 18(11):4188-4197.'
+citation: 'Estrella LD, Xu X, White C, Manganaro JE, Sheldon L, Farmer T, Stauch KL. &quot;The absence of Parkin in hTau mice leads to synaptic mitochondrial dysfunction, alterations to the synaptic proteome, and increased phosphorylated tau in the Hippocampus.&quot; <i>Neurobiol Dis</i>. 2025 Oct 15;215:107084. doi: 10.1016/j.nbd.2025.107084. Epub 2025 Sep 4. PMID: 40914434.'
 ---
 
-Authors: Zhao Z., Xu, X., Jiang H., Foster K.W., Jia Z., Wei X., ... & Wang D.
+Authors: Estrella LD, Xu X, White C, Manganaro JE, Sheldon L, Farmer T, Stauch KL.
