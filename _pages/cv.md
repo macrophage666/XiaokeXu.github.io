@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Pharmaceutical Science, University of Nebraska Medical Center, 2021-Aug 2025
+* Ph.D. in Pharmaceutical Science, University of Nebraska Medical Center, 2021-2025
 * B.S. in Pharmaceutical Science, China Pharmaceutical University, 2016-2020
 
 Professional experience
@@ -36,11 +36,11 @@ Professional experience
 * University of Nebraska Medical Center
 * Pharmaceutical Science
   * Developed and characterized a thermoresponsive polymeric simvastatin prodrug for experimental periodontitis treatment.
-  * Conducted in vitro release and structural analyses using MS, NMR, HPLC, DLS, SAXS, and GPC-MALS.
+  * Conducted <i>in vitro</i> release and structural analyses using MS, NMR, HPLC, DLS, SAXS, and GPC-MALS.
   * Established a rat periodontitis model and evaluated toxicity and efficacy via Micro-CT, blood analysis, and immunostaining.
 
 * 08/2020-06/2021: Research Assistant
-  * Innostellar Bio Co., Ltd, Shanghai
+  * Innostellar Bio Co., Ltd., Shanghai
     * Contributed to R&D on gene therapy (AAV-based) development, verification, and preclinical studies.
     * Assisted in developing two gene therapies targeting Leber congenital amaurosis 2 (LCA2) and macular degeneration.
     * Performed molecular cloning, DNA/RNA extraction, qPCR-based virus titer testing, AAV purification, and preclinical evaluations including ERG, OCT, and histology in mice.
@@ -60,15 +60,16 @@ Skills
   * Nextflow pipelines
   * scRNA-seq data analysis
   * scATAC-seq data analysis
-  * bulk RNA- seq data analysis
+  * bulk RNA-seq data analysis
   * proteomics data analysis
   * bioinformatic tools: Seurat, Scanpy, ArchR, snapATAC2, cellChat, monocle3, clusterProfiler, IPA, DESeq-2, etc.
-  * Machine learning algorithms: Linear and logistic Regression, Clustering (e.g. K-Means, Hierarchical clustering, graph-based clustering), Dimensionality Reduction (e.g. PCA, LDA, umap, tsne)
+  * machine learning algorithms: Linear and logistic Regression, Clustering (e.g. K-Means, Hierarchical clustering, graph-based clustering), Dimensionality Reduction (e.g. PCA, LDA, umap, tsne)
   * TensorFlow ([certificate](https://coursera.org/share/0e617c3a1ad771879ffa2f5bcb813cde))
 
 * Wet Lab skills
   * Cell culture
-  * Animal Work (Dissection, i.v., i.p., s.c. injection, oral gavage, in vivo imaging (IVIS), CAT Walk XT, Electroretinography (ERG), Optical Coherence Tomography (OCT))
+  * Bacterial culture
+  * Animal Work (Dissection, i.v., i.p., s.c. injection, oral gavage, <i>in vivo</i> imaging (IVIS), CAT Walk XT, Electroretinography (ERG), Optical Coherence Tomography (OCT))
   * FACS
   * qPCR
   * Immunostaining (IHC, IF, HE)
@@ -77,6 +78,7 @@ Skills
   * HPLC
   * FPLC/GPC-MALS
   * DLS
+  * SAXS
 
 Publications
 ======
